@@ -1,0 +1,28 @@
+=======================================================================
+l2rpn-wcci-2022's dependent software
+=======================================================================
+l2rpn-wcci-2022 (this software repository) is developed by Alibaba and 
+based on the following software repository: 
+
+- rte-france/l2rpn-baselines 
+(https://github.com/rte-france/l2rpn-baselines)
+
+- AsprinChina/L2RPN_NIPS_2020_a_PPO_Solution
+(https://github.com/AsprinChina/L2RPN_NIPS_2020_a_PPO_Solution)
+
+Copyright (c) 2021, Alibaba Group
+The code is subject to the Mozilla Public License, v2.0.
+
+=======================================================================
+l2rpn-baselines's MPL-2.0 license
+=======================================================================
+Copyright (c) 2020-2022 RTE (https://www.rte-france.com).
+The code is subject to the terms of the Mozilla Public License, v2.0.
+Their licences can be found under the respective software repositories.
+
+=======================================================================
+L2RPN_NIPS_2020_a_PPO_Solution's MPL-2.0 license
+=======================================================================
+Copyright (c) 2020 EI Innovation Lab, Huawei Cloud, Huawei Technologies
+The code is subject to the terms of Mozilla Public License (MPL) v2.0.
+Commercial use is NOT allowed.
